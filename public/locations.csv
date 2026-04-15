@@ -1,0 +1,16 @@
+name,category,address,latitude,longitude,label_priority,notes
+Westgate New York Grand Central,Accommodation,304 E 42nd St New York NY 10017 USA,40.7498,-73.9737,1,
+Grand Central Terminal,Attraction,15 Vanderbilt Ave New York NY 10017 USA,40.7527,-73.9772,1,
+Central Park (South Entrance),Attraction,110 W 59th St New York NY 10019 USA,40.7662,-73.9776,1,
+Chrysler Building,Attraction,405 Lexington Ave New York NY 10174 USA,40.7516,-73.9755,1,
+New York Public Library,Attraction,476 5th Ave New York NY 10018 USA,40.7532,-73.9822,1,
+Museum of Modern Art (MoMA),Attraction,11 W 53rd St New York NY 10019 USA,40.7614,-73.9776,1,
+Bryant Park,Attraction,6th Ave New York NY 10018 USA,40.7536,-73.9832,1,
+Times Square,Attraction,1 Times Sq New York NY 10036 USA,40.7580,-73.9855,1,
+Empire State Building,Attraction,350 5th Ave New York NY 10118 USA,40.7484,-73.9857,1,
+Statue of Liberty,Attraction,Liberty Island New York NY 10004 USA,40.6892,-74.0445,2,Separate Area
+Madison Square Garden,Attraction,4 Pennsylvania Plaza New York NY 10001 USA,40.7505,-73.9934,1,
+Apollo Theater,Tour,253 W 125th St New York NY 10027 USA,40.8100,-73.9500,1,Harlem Tour
+Little Collins,Coffee,708 3rd Ave New York NY 10017 USA,40.7504,-73.9725,2,
+ROAST Coffee,Coffee,250 E 40th St New York NY 10016 USA,40.7475,-73.9720,2,
+Laundromat Green Cleaners,Laundry,981 Columbus Ave New York NY 10025 USA,40.8007,-73.9676,3,
