@@ -49,7 +49,7 @@ function normaliseLocation(row: LocationCsvRow): MapLocation | null {
 }
 
 export async function fetchLocationsFromCsv(): Promise<MapLocation[]> {
-  const csvUrl = `${import.meta.env.BASE_URL}data/locations.csv`;
+  const csvUrl = `${import.meta.env.BASE_URL}locations.csv`;
 
   const response = await fetch(csvUrl, {
     headers: {
