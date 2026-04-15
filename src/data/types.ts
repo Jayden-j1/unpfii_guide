@@ -1,4 +1,4 @@
-export type AppRoute = '/' | '/map' | '/timetable' | '/locations';
+export type AppRoute = '/' | '/map' | '/timetable' | '/locations' | '/land-is-life-agenda';
 
 export type NavItem = {
   title: string;
