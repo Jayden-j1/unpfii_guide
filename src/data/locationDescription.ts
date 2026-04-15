@@ -128,8 +128,6 @@ export const LOCATION_DESCRIPTIONS: LocationInfo[] = [
     address: '708 3rd Ave New York NY 10017 USA',
     shortDescription:
       'A well-located coffee spot near Midtown, useful for a quick drink or short stop during the day.',
-    funFact:
-      'It is a convenient option close to the accommodation area, making it practical for early starts or short breaks.',
   },
   {
     id: 'roast-coffee',
@@ -138,8 +136,6 @@ export const LOCATION_DESCRIPTIONS: LocationInfo[] = [
     address: '250 E 40th St New York NY 10016 USA',
     shortDescription:
       'A nearby coffee option within walking distance of the Midtown accommodation area.',
-    funFact:
-      'Its location makes it a practical everyday stop for coffee while staying around Grand Central and East Midtown.',
   },
   {
     id: 'laundromat-green-cleaners',
@@ -148,7 +144,5 @@ export const LOCATION_DESCRIPTIONS: LocationInfo[] = [
     address: '981 Columbus Ave New York NY 10025 USA',
     shortDescription:
       'A laundry option for washing and cleaning clothes during the trip.',
-    funFact:
-      'Having a known laundry option saved in advance can make longer work trips much easier to manage.',
   },
 ];

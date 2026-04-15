@@ -11,7 +11,7 @@ export const LAND_IS_LIFE_AGENDA: LandIsLifeAgendaItem[] = [
     location:
       'Rosa Luxemburg Stiftung New York Office, 275 Madison Ave #2114, New York, NY 10016',
     interpretation: 'English & Spanish',
-    organisersLabel: 'Co-organizers',
+    organisersLabel: 'Co-organisers',
     organisers:
       'Land is Life, Indigenous Peoples Law & Policy Program - University of Arizona, MADRE, and Rosa Luxemburg Stiftung',
   },
@@ -78,7 +78,7 @@ export const LAND_IS_LIFE_AGENDA: LandIsLifeAgendaItem[] = [
       'Healthy Rangelands, Securing Indigenous Nomadic Pastoralists’ Food Systems',
     location: 'CR-9 at the UN Building',
     interpretation: 'English',
-    organisersLabel: 'Co-organizers',
+    organisersLabel: 'Co-organisers',
     organisers:
       'FAO, Land is Life, International Centre for Reindeer Husbandry, PINGO Forum',
   },
@@ -117,7 +117,7 @@ export const LAND_IS_LIFE_AGENDA: LandIsLifeAgendaItem[] = [
     title:
       '“Indigenous Peoples’ Meaningful Participation and FPIC in Global Processes”',
     location: 'NYC UN Headquarters, CR-9',
-    organisersLabel: 'Co-organizers',
+    organisersLabel: 'Co-organisers',
     organisers:
       'FAO, Land is Life, International Indian Treaty Council (IITC), Pan American Health Organization (PAHO)',
   },
@@ -130,7 +130,7 @@ export const LAND_IS_LIFE_AGENDA: LandIsLifeAgendaItem[] = [
     title:
       'Resisting Green Colonialism: One Amazon Plans - Exchange with Indigenous Amazonian Leaders',
     location: 'City In Resistance, 127 Walker Street, Chinatown, NYC',
-    organisersLabel: 'Organizers',
+    organisersLabel: 'Organisers',
     organisers: 'Land is Life',
   },
   {
@@ -144,7 +144,7 @@ export const LAND_IS_LIFE_AGENDA: LandIsLifeAgendaItem[] = [
     location:
       'Rosa Luxemburg Stiftung New York Office, 275 Madison Ave #2114, New York, NY 10016',
     interpretation: 'English & Spanish',
-    organisersLabel: 'Co-organizers',
+    organisersLabel: 'Co-organisers',
     organisers:
       'Land is Life, Indigenous Peoples Law & Policy Program - University of Arizona, Saniri Alifuru (Alifuru Council), MADRE, and Rosa Luxemburg Stiftung',
   },
@@ -159,7 +159,7 @@ export const LAND_IS_LIFE_AGENDA: LandIsLifeAgendaItem[] = [
     location:
       'World Bank offices, -1 Dag Hammarskjold Plaza (885 Second Avenue), 26th Floor',
     interpretation: 'English & Spanish',
-    organisersLabel: 'Co-organizers',
+    organisersLabel: 'Co-organisers',
     organisers:
       'GEF, Land is Life, Indigenous Determinants of Health Alliance, GEF’s Indigenous Peoples Advisory Group (IPAG), GEF-8 ICI partner, IMPACT-Kenya',
   },
@@ -173,7 +173,7 @@ export const LAND_IS_LIFE_AGENDA: LandIsLifeAgendaItem[] = [
       'Implementing Article 32 of UNDRIP: Indigenous Self-Determination Through Indigenous-Led Initiatives, Co-Management and Co-Stewardship of Natural Resources, and the Emerging Rights of Nature Framework',
     location: 'NYC UN Headquarters, CR-5',
     interpretation: 'English & Spanish',
-    organisersLabel: 'Co-organizers',
+    organisersLabel: 'Co-organisers',
     organisers:
       'Indigenous Peoples Law & Policy Program - University of Arizona, Yale Center For Environmental Justice-Yale University, Land is Life',
   },
