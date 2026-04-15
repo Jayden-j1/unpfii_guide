@@ -17,6 +17,20 @@ export type TimetableItem = {
   description: string;
 };
 
+export type LandIsLifeAgendaItem = {
+  id: string;
+  day: string;
+  date: string;
+  time: string;
+  eventType: string;
+  title: string;
+  location: string;
+  interpretation?: string;
+  organisersLabel?: string;
+  organisers?: string;
+  notes?: string;
+};
+
 export type LocationInfo = {
   id: string;
   name: string;

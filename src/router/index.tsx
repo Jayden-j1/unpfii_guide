@@ -3,6 +3,7 @@ import { HomePage } from '../pages/HomePage';
 import { MapPage } from '../pages/MapPage';
 import { TimetablePage } from '../pages/TimeTablePage';
 import { LocationDescriptionsPage } from '../pages/LocationDescriptionPage';
+import { LandIsLifeAgendaPage } from '../pages/LandIsLifeAgendaPage';
 
 export function AppRouter() {
   return (
@@ -12,6 +13,8 @@ export function AppRouter() {
         <Route path="/map" element={<MapPage />} />
         <Route path="/timetable" element={<TimetablePage />} />
         <Route path="/locations" element={<LocationDescriptionsPage />} />
+        <Route path="/land-is-life-agenda" element={<LandIsLifeAgendaPage />}
+        />
       </Routes>
     </HashRouter>
   );
